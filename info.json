@@ -1,0 +1,9 @@
+{
+    "name": "early-spiderbots-bobs",
+    "version": "0.0.1",
+    "title": "Spiderbots Circuit Fix for Bob's",
+    "author": "Tomhero200",
+    "factorio_version": "1.1",
+    "dependencies": ["bobelectronics", "spiderbots"],
+    "description": "Changes the Spiderbot recipe to use the basic circuit boards which are avaible from start/n instead of the ones that require solder."
+}
