@@ -1,7 +1,7 @@
 {
     "name": "early-spiderbots-bobs",
     "version": "1.0.0",
-    "title": "Spiderbots Circuit Fix for Bob's",
+    "title": "Spiderbots Circuit Fix for Bob's Electronics",
     "author": "Tomhero200",
     "factorio_version": "1.1",
     "dependencies": ["bobelectronics", "spiderbots"],
