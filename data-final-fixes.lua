@@ -9,6 +9,5 @@ if mods["bobelectronics"] and mods["spiderbots"] then
       { "inserter",           8 },
       { "raw-fish",           1 },
     }
-    
   end
 end
